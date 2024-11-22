@@ -1,7 +1,3 @@
-Here’s a revised and more polished version of your **README** to better showcase your project and emphasize the CI/CD pipeline:
-
----
-
 # **Simple Python Project**
 
 ## **Description**
