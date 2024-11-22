@@ -1,3 +1,2 @@
 # Python project dependencies
-numpy
-RPi.GPIO
+pytest
